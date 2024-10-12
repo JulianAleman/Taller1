@@ -2,3 +2,53 @@
     float: right;
     margin-right: 0px;
 }
+.titulo1{
+    font-family: 'Georgia', serif;
+    font-size: 2rem; 
+    color: #2C3E50; 
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
+.img2{
+    display: block;
+    margin: auto;
+    max-width: 80%;
+    height: auto;
+}
+#centradob{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+#centrado{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.titulo2{
+    font-family: 'Georgia', serif;
+    font-size: 2rem; 
+    color: #2C3E50; 
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+#h{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
